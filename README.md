@@ -9,9 +9,9 @@ Développeur full-stack passionné par la conception d'applications web modernes
 ## 🛠️ Stack technique
 
 **Frontend**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![Angular Material](https://img.shields.io/badge/-Angular%20Material-757575?logo=angular&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
@@ -23,9 +23,9 @@ Développeur full-stack passionné par la conception d'applications web modernes
 
 **Outils**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+
 
 ---
 
@@ -63,7 +63,6 @@ Ces données sont ensuite analysées à l’aide de modèles de prédiction afin
 
 ## 📊 Statistiques GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Goldinoo&show_icons=true&theme=dark)
 
 ![Streak](https://streak-stats.demolab.com?user=Goldinoo&theme=dark)
 
