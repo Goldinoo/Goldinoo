@@ -41,7 +41,7 @@ Application complète de gestion pour cabinet vétérinaire — clients, animaux
 ### 🤖 [ADK Agent – Loup-Garou](https://github.com/dev-t0ny/bp-hacks-2026/commits/main/) `Hackathon 2026`
 Agent intelligent pour le jeu du Loup-Garou, développé en pair programming au Hackathon ADK. L'agent analyse le contexte de jeu et interagit avec les joueurs via Botpress et Gemini.
 
-> **Stack :** Python · Botpress ADK · Gemini
+> **Stack :** Python · Botpress ADK · Gemini · Claude
 
 ---
 
