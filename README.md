@@ -1,6 +1,6 @@
-# 👋 Salut, moi c'est goldinoo
+# 👋 Salut à Tous, 
 
-Développeur full-stack passionné par la conception d'applications web modernes. J'aime travailler sur des projets concrets qui résolvent de vrais problèmes — du backend .NET aux interfaces Angular en passant par l'IA.
+Développeur full-stack passionné par la conception d'applications web modernes. Je contribue à tout produits qui résolvent de vrais usecase.
 
 > 🟢 **Ouvert aux opportunités** — disponible dès maintenant
 
@@ -34,7 +34,7 @@ Développeur full-stack passionné par la conception d'applications web modernes
 ### 🐾 [VetApp](https://github.com/goldinoo/vet_app)
 Application complète de gestion pour cabinet vétérinaire — clients, animaux, consultations, paiements et rappels de suivi. Authentification JWT, génération PDF avec QuestPDF, déployé sous Docker.
 
-> **Stack :** Angular · .NET 8 · PostgreSQL · JWT · QuestPDF · Docker
+> **Stack :** Vite · Angular · .NET 8 · PostgreSQL · JWT · QuestPDF · Docker
 
 ---
 
@@ -48,15 +48,16 @@ Agent intelligent pour le jeu du Loup-Garou, développé en pair programming au 
 ### 🎮 [Ludov – Fiches Culturelles](https://github.com/LUDOV-Garneau/Fiches-culturelles)
 Module de présentation d'une sélection de jeux du laboratoire de jeux vidéo de l'UdeM (LUDOV). Interface moderne avec gestion de contenu en MDX.
 
-> **Stack :** TypeScript · JavaScript · MDX · Docker
+> **Stack :** TypeScript · React · MDX · Docker · Node · Express
 
 ---
 
 ### 🌍 [NASA Space Apps Challenge](https://github.com/Fabio345i/spaceappschallenge.git) `Hackathon international`
 Projet réalisé en équipe lors du hackathon international NASA Space Apps Challenge.
 
-> **Stack :** *(ajoute les technos utilisées)*  
-> *(Ajoute 1-2 phrases sur ce que le projet fait concrètement — c'est ce que les recruteurs regardent en premier !)*
+> **Stack :** ** Node · Python(FastApi) · Vue.js · Chart.js 
+> *(En exploitant les données de la NASA (satellites, imagerie et données atmosphériques), nous avons mis en place un pipeline de traitement qui collecte, nettoie et normalise les données en temps réel.
+Ces données sont ensuite analysées à l’aide de modèles de prédiction afin de générer des prévisions météorologiques précises et exploitables.)*
 
 ---
 
