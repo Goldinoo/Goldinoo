@@ -25,17 +25,24 @@
 
   ## 🚀 Projets phares
 
+  ### 🌍 [NASA Space Apps Challenge]([https://github.com/Fabio345i/spaceappschallenge.git])
+  Projet réalisé en équipe lors du hackathon international NASA Space Apps Challenge.
+  > **Stack :** (ajoute les technos utilisées)
+
+  ### 🎮 [Ludov - Fiches Culturelles](https://github.com/LUDOV-Garneau/Fiches-culturelles)
+  Module de présentation d'une sélection de jeux du laboratoire de jeux vidéo de l'UdeM (LUDOV).
+  > **Stack :** TypeScript · JavaScript · MDX · Docker
+
+
   ### 🐾 [VetApp](https://github.com/goldinoo/vet_app)
   Application de gestion pour cabinet vétérinaire — gestion des clients, animaux, consultations, paiements et
   rappels de suivi.
   > **Stack :** Angular 21 · .NET 8 · PostgreSQL · JWT · QuestPDF
 
-  <!-- Ajoute ici tes autres projets importants, par exemple : -->
-  <!--
-  ### 📦 [Nom du projet](lien)
-  Description courte du projet.
-  > **Stack :** ...
-  -->
+  ### 🤖 [ADK Agent – Loup-Garou](https://github.com/dev-t0ny/bp-hacks-2026/commits/main/)
+  Agent intelligent pour le jeu du Loup-Garou, construit avec le ADK botpress en Pair Prog au Hackaton d'Agent Development Kit.
+  > **Stack :** Python · Botpress ADK · Gemini
+
 
   ---
 
