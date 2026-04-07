@@ -62,9 +62,11 @@ Ces données sont ensuite analysées à l’aide de modèles de prédiction afin
 ## 📊 Statistiques GitHub
 
 
-![Streak](https://streak-stats.demolab.com?user=Goldinoo&theme=dark)
 
 ![Graph d'activité](https://github-readme-activity-graph.vercel.app/graph?username=goldinoo&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=Goldinoo&theme=dark)
+
 
 ---
 
