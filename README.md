@@ -56,7 +56,5 @@
 
   ## 📫 Me contacter
 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https:
-  //linkedin.com/in/TON-LINKEDIN)
-  [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:TON-EMAI
-  L)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/TON-LINKEDIN)
+  [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:TON-EMAIL)
