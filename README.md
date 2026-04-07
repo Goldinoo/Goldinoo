@@ -50,7 +50,7 @@
 
   ![Stats globales](https://github-readme-stats.vercel.app/api?username=goldinoo&show_icons=true&theme=tokyonight&hide_border=true)
 
-  ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=goldinoo&layout=compact&theme=tokyonight&hide_border=true)
+  ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/toplangs/username=goldinoo&layout=compact&theme=tokyonight&hide_border=true)
 
   ![Graph d'activité](https://github-readme-activity-graph.vercel.app/graph?username=goldinoo&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true)
 
