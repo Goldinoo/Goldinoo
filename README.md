@@ -56,21 +56,3 @@ Projet réalisé en équipe lors du hackathon international NASA Space Apps Chal
 > **Stack :** ** Node · Python(FastApi) · Vue.js · Chart.js 
 > *(En exploitant les données de la NASA (satellites, imagerie et données atmosphériques), nous avons mis en place un pipeline de traitement qui collecte, nettoie et normalise les données en temps réel.
 Ces données sont ensuite analysées à l’aide de modèles de prédiction afin de générer des prévisions météorologiques précises et exploitables.)*
-
----
-
-## 📊 Statistiques GitHub
-
-
-
-![Graph d'activité](https://github-readme-activity-graph.vercel.app/graph?username=goldinoo&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=Goldinoo&theme=dark)
-
-
----
-
-## 📫 Me contacter
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/TON-LINKEDIN)
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:TON-EMAIL)
