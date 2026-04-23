@@ -2,7 +2,7 @@
 
 Développeur full-stack passionné par la conception d'applications web modernes. Je contribue à tout produits qui résolvent de vrais usecase.
 
-> 🟢 **Ouvert aux opportunités** — disponible dès maintenant
+> 🟢 **Ouvert aux opportunités d'affaires** 
 
 ---
 
