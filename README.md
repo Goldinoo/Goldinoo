@@ -29,20 +29,6 @@ Développeur full-stack passionné par la conception d'applications web modernes
 
 ## 🚀 Projets phares
 
-### 🐾 [VetApp](https://github.com/goldinoo/vet_app)
-Application complète de gestion pour cabinet vétérinaire — clients, animaux, consultations, paiements et rappels de suivi. Authentification JWT, génération PDF avec QuestPDF, déployé sous Docker.
-
-> **Stack :** Vite · Angular · .NET 8 · PostgreSQL · JWT · QuestPDF · Docker
-
----
-
-### 🤖 [ADK Agent – Loup-Garou](https://github.com/dev-t0ny/bp-hacks-2026/commits/main/) `Hackathon 2026`
-Agent intelligent pour le jeu du Loup-Garou, développé en pair programming au Hackathon ADK. L'agent analyse le contexte de jeu et interagit avec les joueurs via Discord.
-
-> **Stack :** Python · Botpress ADK · Gemini · Claude
-
----
-
 ### 🎮 [Ludov – Fiches Culturelles](https://github.com/LUDOV-Garneau/Fiches-culturelles)
 Module de présentation d'une sélection de jeux du laboratoire de jeux vidéo de l'UdeM (LUDOV). Interface moderne avec gestion de contenu en MDX.
 
